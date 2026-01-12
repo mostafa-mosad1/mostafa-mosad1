@@ -1,320 +1,442 @@
 <div align="center">
 
-<!-- Smooth Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mostafa%20Mosad&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=55&descSize=20"/>
+<!-- Header Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mostafa%20Mosad%20Al-Tonbary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Front-End+Developer+%7C+React.js+Specialist;Crafting+Pixel-Perfect+Experiences;Performance+%26+Scalability+Obsessed" alt="Typing SVG" />
 
 <br/>
 
-<!-- Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=React+%26+Next.js+Specialist;Clean+Code+Advocate;Performance+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
-</a>
+<!-- Animated Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-00D9FF?style=for-the-badge&labelColor=000000&logo=react" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Based%20in-Egypt%20🇪🇬-FF6B6B?style=for-the-badge&labelColor=000000" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00C851?style=for-the-badge&labelColor=000000" alt="Status"/>
+</p>
 
-<br/><br/>
-
-<!-- Social Badges -->
+<!-- Social Links with Hover Effect -->
 <p>
   <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:melfeshawy42@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/-Portfolio-667eea?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:melfeshawy42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-<br/>
+---
 
-👋 Hello, I'm Mostafa  
-Passionate about building clean, scalable, and high-performance web experiences
+## 🎭 About Me
 
-I'm a Front-End Developer specializing in modern UI and e-commerce platforms.
-I focus on writing readable, maintainable code that scales with the product.
-
-```javascriptinterface Developer {
+```typescript
+interface Developer {
   name: string;
-  location: string;
   role: string;
-  stack: string[];
-  platforms: string[];
-  focus: string;
+  location: string;
+  languages: string[];
+  currentMission: string;
+  passions: string[];
   availability: boolean;
 }
 
 const mostafa: Developer = {
-  name: "Mostafa Mossad",
+  name: "Mostafa Mosad Al-Tonbary",
+  role: "Front-End Developer & React.js Specialist",
   location: "Egypt 🇪🇬",
-  role: "Front-End Developer | E-commerce Specialist",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  platforms: ["Shopify", "Salla", "Zid"],
-  focus: "Clean code, scalable UI, performance-driven e-commerce themes",
-  availability: true,
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  currentMission: "Building scalable, high-performance web applications",
+  passions: [
+    "Clean Architecture 🏗️",
+    "Performance Optimization ⚡",
+    "User Experience 🎨",
+    "Open Source 💚"
+  ],
+  availability: true
 };
 
-console.log("React & Next.js — done right 🚀");
+console.log("Let's build something amazing together! 🚀");
 ```
-
-
-
 
 <br/>
 
-## 🎯 What I'm Doing
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
+
+---
+
+## 🎯 Current Focus
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**🚀 Building**
-- Scalable React applications
-- Performance-optimized solutions
-- Beautiful user interfaces
-
-</td>
-<td>
-
-**📚 Learning**
-- Advanced React patterns
-- Next.js best practices
-- Modern web technologies
+### 🚀 What I'm Building
+- 🔥 High-performance React applications
+- ⚡ Next.js optimization techniques
+- 🎨 Stunning UI/UX implementations
+- 🏗️ Scalable frontend architectures
 
 </td>
-<td>
+<td width="50%">
 
-**🤝 Looking for**
-- Open source collaborations
-- Interesting projects
-- New challenges
+### 📚 What I'm Learning
+- 🧠 Advanced design patterns
+- 🔄 State management mastery
+- 🎭 Micro-frontend architectures
+- 📊 Web performance metrics
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+### 💎 Core Technologies
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+</tr>
+</table>
+
+### 🎨 Styling & Design
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
+<br>Material UI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+<br>Sass
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="Styled Components" />
+<br>Styled Comp
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+</tr>
+</table>
+
+### 🔧 State Management & Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+<br>Webpack
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+<br>npm
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
 
-## 🛠️ Technologies I Work With
-
 <div align="center">
-
-**Core**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Styling**
-
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-
-**Tools & State Management**
-
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
-
-<br/>
-
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue&hide_border=true&langs_count=6"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue&hide_border=true" alt="Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
-## 🌟 Featured Work
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophy"/>
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Project One</h3>
-<div align="center">  
-<a href="PROJECT_LINK" target="_blank">
-<img src="https://via.placeholder.com/400x200/667eea/ffffff?text=Project+Screenshot" alt="Project 1" width="100%"/>
-</a>
-<br/>
-<br/>
-<p>
-  <a href="PROJECT_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Demo-667eea?style=for-the-badge"/>
-  </a>
-  <a href="GITHUB_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-<p><strong>React • Next.js • Tailwind CSS</strong></p>
-<p>A modern web application with clean design and smooth performance.</p>
-</div>
-</td>
 
+### 🌟 [Project Alpha](LINK)
+**A revolutionary web application**
+
+`React` `Next.js` `TypeScript` `Tailwind`
+
+Modern, fast, and scalable. Built with cutting-edge technologies to deliver exceptional user experience.
+
+⭐ **Key Features:**
+- Lightning-fast performance
+- Responsive design
+- SEO optimized
+
+[View Demo](LINK) | [Source Code](LINK)
+
+</td>
 <td width="50%">
-<h3 align="center">Project Two</h3>
-<div align="center">  
-<a href="PROJECT_LINK" target="_blank">
-<img src="https://via.placeholder.com/400x200/764ba2/ffffff?text=Project+Screenshot" alt="Project 2" width="100%"/>
-</a>
-<br/>
-<br/>
-<p>
-  <a href="PROJECT_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Demo-764ba2?style=for-the-badge"/>
-  </a>
-  <a href="GITHUB_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-<p><strong>React • Redux • Material UI</strong></p>
-<p>Feature-rich platform with elegant user interface.</p>
-</div>
+
+### 🚀 [Project Beta](LINK)
+**E-commerce platform reimagined**
+
+`React` `Redux` `Material-UI` `Firebase`
+
+Full-featured shopping experience with real-time updates and seamless checkout process.
+
+⭐ **Key Features:**
+- Real-time inventory
+- Payment integration
+- Admin dashboard
+
+[View Demo](LINK) | [Source Code](LINK)
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">Project Three</h3>
-<div align="center">  
-<a href="PROJECT_LINK" target="_blank">
-<img src="https://via.placeholder.com/400x200/667eea/ffffff?text=Project+Screenshot" alt="Project 3" width="100%"/>
-</a>
-<br/>
-<br/>
-<p>
-  <a href="PROJECT_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Demo-667eea?style=for-the-badge"/>
-  </a>
-  <a href="GITHUB_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-<p><strong>Next.js • TypeScript • Sass</strong></p>
-<p>Fast and responsive web experience.</p>
-</div>
-</td>
 
+### ⚡ [Project Gamma](LINK)
+**Social media dashboard**
+
+`Next.js` `React Query` `Framer Motion`
+
+Analytics dashboard with beautiful animations and real-time data visualization.
+
+⭐ **Key Features:**
+- Real-time analytics
+- Beautiful UI/UX
+- Advanced filtering
+
+[View Demo](LINK) | [Source Code](LINK)
+
+</td>
 <td width="50%">
-<h3 align="center">Project Four</h3>
-<div align="center">  
-<a href="PROJECT_LINK" target="_blank">
-<img src="https://via.placeholder.com/400x200/764ba2/ffffff?text=Project+Screenshot" alt="Project 4" width="100%"/>
-</a>
-<br/>
-<br/>
-<p>
-  <a href="PROJECT_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Demo-764ba2?style=for-the-badge"/>
-  </a>
-  <a href="GITHUB_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-<p><strong>React • Framer Motion • Styled Components</strong></p>
-<p>Interactive experience with smooth animations.</p>
+
+### 🎨 [Project Delta](LINK)
+**Creative portfolio showcase**
+
+`React` `Three.js` `GSAP` `Tailwind`
+
+3D interactive portfolio with smooth animations and stunning visual effects.
+
+⭐ **Key Features:**
+- 3D interactions
+- Smooth animations
+- Dark/Light mode
+
+[View Demo](LINK) | [Source Code](LINK)
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+## 🎯 What I Bring to the Table
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Mostafa))
+    Technical Skills
+      React Ecosystem
+      Performance Optimization
+      Clean Architecture
+      TypeScript Mastery
+    Soft Skills
+      Problem Solving
+      Team Collaboration
+      Continuous Learning
+      Attention to Detail
+    Values
+      Code Quality
+      User Experience
+      Best Practices
+      Innovation
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💬 Open for opportunities, collaborations, and interesting conversations!
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center">
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Check%20My%20Work-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="mailto:melfeshawy42@gmail.com">
+<img src="https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</td>
+<td align="center">
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
+### 📫 Quick Reach
+
+📧 **Email:** melfeshawy42@gmail.com  
+🔗 **LinkedIn:** [Connect with me](YOUR_LINKEDIN)  
+🌐 **Portfolio:** [View my work](YOUR_PORTFOLIO)
 
 <br/>
 
-## 💭 My Approach
-
-<div align="center">
-
-| 🎯 **Focus** | 🌱 **Growth** | 🤝 **Collaboration** |
-|:---:|:---:|:---:|
-| Writing clean, maintainable code | Learning something new every day | Open to new opportunities |
-| Performance optimization | Exploring new technologies | Building with great teams |
-| User experience first | Improving my craft | Contributing to open source |
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
 </div>
 
-<br/>
+---
+
+## 💝 Support My Work
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+If you find my work valuable and want to support my journey:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_COFFEE_LINK)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](YOUR_PAYPAL)
+
+**Your support motivates me to create more amazing projects! 🙏**
+
 </div>
 
-<br/>
-
-## 📬 Get In Touch
+---
 
 <div align="center">
 
-I'm always open to discussing new projects, ideas, or opportunities.
+### 💭 Philosophy
+
+**"The best code is no code at all. The second best is simple, readable code."**
+
+**"First, solve the problem. Then, write the code."**
 
 <br/>
 
-**Let's connect and create something great together!**
-
-<br/>
-
-<a href="mailto:melfeshawy42@gmail.com">
-  <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/-View%20Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-### Thanks for visiting! 😊
+### ⭐ If you like my work, consider giving my repos a star!
+
+**Made with ❤️ by Mostafa Mosad Al-Tonbary**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=667eea&style=flat-square&label=Profile+Views)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-
-<br/><br/>
-
-<!-- Smooth Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
