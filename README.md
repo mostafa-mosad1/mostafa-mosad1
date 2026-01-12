@@ -34,16 +34,15 @@
 
 <br/>
 
-## 👋 Hello, I'm Mostafa
+👋 Hello, I'm Mostafa  
+Passionate about building clean, scalable, and high-performance web experiences
 
-> Passionate about creating beautiful, efficient web experiences
+I'm a Front-End Developer specializing in modern UI and e-commerce platforms.
+I focus on writing readable, maintainable code that scales with the product.
 
-I'm a Front-End Developer focused on building **clean**, **scalable**, and **performant** applications. I believe in writing code that's easy to read, maintain, and scale.
-
-```javascript
-interface Developer {
+```javascriptinterface Developer {
   name: string;
-  location: string,
+  location: string;
   role: string;
   stack: string[];
   platforms: string[];
@@ -54,16 +53,18 @@ interface Developer {
 const mostafa: Developer = {
   name: "Mostafa Mossad",
   location: "Egypt 🇪🇬",
-  role: "Front-End Developer | E-commerce",
+  role: "Front-End Developer | E-commerce Specialist",
   stack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   platforms: ["Shopify", "Salla", "Zid"],
-  focus: "Clean code, scalable UI, high-performance e-commerce themes",
+  focus: "Clean code, scalable UI, performance-driven e-commerce themes",
   availability: true,
 };
 
 console.log("React & Next.js — done right 🚀");
-
 ```
+
+
+
 
 <br/>
 
