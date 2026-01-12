@@ -41,13 +41,82 @@
 I'm a Front-End Developer focused on building **clean**, **scalable**, and **performant** applications. I believe in writing code that's easy to read, maintain, and scale.
 
 ```javascript
-const developer = {
-  name: "Mostafa Mosad Al-Tonbary",
-  from: "Egypt 🇪🇬",
-  focus: ["React", "Next.js", "TypeScript"],
-  love: ["Clean Code", "Performance", "UX Design"],
-  currently: "Building amazing web experiences"
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  frameworks: string[];
+  ecommercePlatforms: string[];
+  skills: string[];
+  tools: string[];
+  currentMission: string;
+  passions: string[];
+  experienceLevel: string;
+  availability: boolean;
+}
+
+const mostafa: Developer = {
+  name: "Mostafa Mossad Al-Tonbary",
+  role: "Front-End Developer | E-commerce Specialist",
+  location: "Egypt 🇪🇬",
+
+  languages: [
+    "JavaScript (ES6+)",
+    "TypeScript",
+    "HTML5",
+    "CSS3"
+  ],
+
+  frameworks: [
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
+
+  ecommercePlatforms: [
+    "Shopify (Liquid, Sections, Schema)",
+    "Salla (Themes & Custom Components)",
+    "Zid (Theme Customization & Inputs)"
+  ],
+
+  skills: [
+    "Theme Development & Customization",
+    "Schema & Dynamic Settings",
+    "Reusable Components",
+    "Responsive Design",
+    "State Management",
+    "Performance Optimization",
+    "SEO-Friendly Markup"
+  ],
+
+  tools: [
+    "Git & GitHub",
+    "Vite",
+    "Figma",
+    "REST APIs",
+    "Strapi CMS",
+    "Clerk Authentication"
+  ],
+
+  currentMission:
+    "Building scalable, high-performance e-commerce themes and components",
+
+  passions: [
+    "Clean Architecture 🏗️",
+    "E-commerce Performance ⚡",
+    "Theme Customization 🧩",
+    "Developer Experience DX 🚀",
+    "UI/UX Details 🎨"
+  ],
+
+  experienceLevel: "Mid-Level Front-End Developer",
+  availability: true
 };
+
+console.log("Ready to build powerful e-commerce experiences 🚀");
+
 ```
 
 <br/>
