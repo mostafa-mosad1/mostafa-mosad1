@@ -1,320 +1,304 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mostafa+Mosad;Front-End+Developer;React+%26+Next.js+Specialist;Shopify+%7C+Salla+%7C+Zid+Expert" alt="Typing SVG" />
-
-<br/>
-
-**Building scalable web experiences & powerful e-commerce solutions**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melfeshawy42@gmail.com)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-</div>
-
----
-
-## 💫 About Me
-
-```typescript
-const developer = {
-  name: "Mostafa Mosad Al-Tonbary",
-  location: "Egypt 🇪🇬",
-  role: "Front-End Developer",
-  expertise: ["React", "Next.js", "TypeScript", "Shopify", "Salla", "Zid"],
-  passion: "Turning ideas into elegant solutions",
-  currently: "Building high-performance web apps & e-commerce experiences",
-  ecommerce: {
-    platforms: ["Shopify", "Salla 🛒", "Zid 🏪"],
-    specialties: ["Theme Development", "Custom Sections", "Liquid", "Storefront API"]
-  }
-};
-```
-
-I'm a passionate Front-End Developer who loves creating **beautiful**, **performant**, and **user-friendly** web applications. I specialize in both modern React/Next.js development and e-commerce platform development across **Shopify**, **Salla**, and **Zid**.
-
-### 🎯 What I'm Up To
-
-- 🚀 Building scalable applications with React & Next.js
-- 🛒 Developing custom themes & solutions on Shopify, Salla, and Zid
-- 📚 Mastering advanced patterns and performance optimization
-- 🤝 Open to collaborating on exciting projects
-- 🌱 Always learning and improving my craft
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ⚛️ Languages & Frameworks
-
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-<br>React
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-<br>TypeScript
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-<br>JavaScript
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-<br>CSS3
-</td>
-</tr>
-</table>
-
-### 🎨 Styling & UI
-
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=sass" width="55" height="55" alt="Sass" />
-<br>Sass
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=materialui" width="55" height="55" alt="Material UI" />
-<br>Material UI
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=styledcomponents" width="55" height="55" alt="Styled Components" />
-<br>Styled Comp
-</td>
-</tr>
-</table>
 
-### ⚙️ Tools & Technologies
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="55" height="55" />
-<br>Redux
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
-<br>Vite
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=npm" width="55" height="55" alt="npm" />
-<br>npm
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🛒 E-Commerce Expertise
-
-<div align="center">
-
-> I build complete e-commerce solutions — from custom storefronts to theme development and API integrations.
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="200">
-
-### <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-
-🟢 **Shopify**
-- Custom Theme Development
-- Liquid Templating
-- Sections & Blocks
-- Storefront API
-- App Integrations
-
-</td>
-<td align="center" width="200">
-
-### <img src="https://img.shields.io/badge/Salla-FF6B35?style=for-the-badge&logoColor=white" />
-
-🟠 **Salla**
-- Custom Themes
-- Salla CLI
-- Twig Templating
-- App Development
-- Webhooks & APIs
-
-</td>
-<td align="center" width="200">
-
-### <img src="https://img.shields.io/badge/Zid-5B2D8E?style=for-the-badge&logoColor=white" />
-
-🟣 **Zid**
-- Theme Customization
-- Zid Apps
-- REST API Integration
-- Custom Widgets
-- Arabic Market Focus
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&ring=667eea&fire=667eea&currStreakLabel=667eea" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=667eea&point=c9d1d9&area=true" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Modern Web App
-**A full-featured application with beautiful UI**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-✨ **Features:**
-- Responsive design
-- Fast performance
-- Clean code architecture
-
-[🔗 View Demo](PROJECT_LINK) • [💻 Source Code](GITHUB_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Shopify Custom Theme
-**High-converting storefront experience**
-
-![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/-Liquid-0071BC?style=flat-square&logo=shopify&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-✨ **Features:**
-- Custom sections & blocks
-- Performance optimized
-- Mobile-first design
-
-[🔗 View Demo](PROJECT_LINK) • [💻 Source Code](GITHUB_LINK)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🟠 Salla Theme
-**Arabic-first e-commerce experience**
-
-![Salla](https://img.shields.io/badge/-Salla-FF6B35?style=flat-square&logoColor=white)
-![Twig](https://img.shields.io/badge/-Twig-bacf29?style=flat-square&logo=symfony&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-✨ **Features:**
-- RTL support
-- Custom components
-- API integration
-
-[🔗 View Demo](PROJECT_LINK) • [💻 Source Code](GITHUB_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 E-Commerce Dashboard
-**Admin & analytics platform**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
-
-✨ **Features:**
-- Real-time charts
-- Order management
-- Multi-store support
-
-[🔗 View Demo](PROJECT_LINK) • [💻 Source Code](GITHUB_LINK)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💬 Let's Connect
-
-<div align="center">
-
-I'm always excited to connect with fellow developers and discuss new opportunities!
-
-Whether it's a **React app**, a **Shopify theme**, a **Salla store**, or a **Zid project** — let's build something great together.
-
-<br/>
-
-<a href="mailto:melfeshawy42@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=667eea&style=flat-square&label=Profile+Views)
-
-<br/>
-
-**Made with ❤️ by Mostafa Mosad Al-Tonbary**
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-sans); }
+
+.profile-header {
+  text-align: center;
+  padding: 2.5rem 1.5rem 2rem;
+  border-bottom: 0.5px solid var(--color-border-tertiary);
+}
+.avatar {
+  width: 80px; height: 80px; border-radius: 50%;
+  background: #534AB7;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 28px; font-weight: 500; color: #EEEDFE;
+  margin: 0 auto 1rem;
+}
+.profile-name {
+  font-size: 22px; font-weight: 500;
+  color: var(--color-text-primary);
+}
+.profile-title {
+  font-size: 14px; color: var(--color-text-secondary); margin-top: 4px;
+}
+.badges {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  justify-content: center; margin-top: 1rem;
+}
+.badge {
+  font-size: 12px; padding: 4px 12px;
+  border-radius: 99px;
+  border: 0.5px solid var(--color-border-secondary);
+  color: var(--color-text-secondary);
+}
+.badge.purple { background: #EEEDFE; color: #3C3489; border-color: #AFA9EC; }
+.badge.teal   { background: #E1F5EE; color: #085041; border-color: #5DCAA5; }
+.badge.amber  { background: #FAEEDA; color: #633806; border-color: #EF9F27; }
+.badge.coral  { background: #FAECE7; color: #712B13; border-color: #F0997B; }
+.badge.green  { background: #EAF3DE; color: #27500A; border-color: #97C459; }
+
+.section { padding: 1.5rem; border-bottom: 0.5px solid var(--color-border-tertiary); }
+.section-title {
+  font-size: 13px; font-weight: 500; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--color-text-tertiary);
+  margin-bottom: 1rem;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+  gap: 8px;
+}
+.skill-chip {
+  background: var(--color-background-secondary);
+  border-radius: var(--border-radius-md);
+  padding: 8px 6px;
+  text-align: center;
+  font-size: 12px; color: var(--color-text-secondary);
+  border: 0.5px solid var(--color-border-tertiary);
+}
+.skill-chip i { display: block; font-size: 20px; margin-bottom: 4px; color: var(--color-text-primary); }
+
+.ecom-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+.ecom-card {
+  border-radius: var(--border-radius-lg);
+  border: 0.5px solid var(--color-border-tertiary);
+  padding: 1rem;
+  background: var(--color-background-primary);
+}
+.ecom-card-header {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 10px;
+}
+.ecom-dot {
+  width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0;
+}
+.ecom-name { font-size: 14px; font-weight: 500; color: var(--color-text-primary); }
+.ecom-skills { list-style: none; }
+.ecom-skills li {
+  font-size: 12px; color: var(--color-text-secondary);
+  padding: 3px 0;
+  border-bottom: 0.5px solid var(--color-border-tertiary);
+  display: flex; align-items: center; gap: 6px;
+}
+.ecom-skills li:last-child { border-bottom: none; }
+.ecom-skills li i { font-size: 13px; }
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+.project-card {
+  border-radius: var(--border-radius-lg);
+  border: 0.5px solid var(--color-border-tertiary);
+  background: var(--color-background-primary);
+  padding: 1rem;
+}
+.project-title { font-size: 14px; font-weight: 500; color: var(--color-text-primary); margin-bottom: 4px; }
+.project-desc { font-size: 12px; color: var(--color-text-secondary); margin-bottom: 10px; line-height: 1.5; }
+.project-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; }
+.tag {
+  font-size: 11px; padding: 2px 8px;
+  border-radius: 99px;
+  background: var(--color-background-secondary);
+  color: var(--color-text-secondary);
+  border: 0.5px solid var(--color-border-tertiary);
+}
+.project-links { display: flex; gap: 8px; }
+.project-links a {
+  font-size: 12px; color: var(--color-text-info);
+  text-decoration: none;
+  display: flex; align-items: center; gap: 3px;
+}
+
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+.stat-card {
+  background: var(--color-background-secondary);
+  border-radius: var(--border-radius-md);
+  padding: 12px;
+  text-align: center;
+}
+.stat-num { font-size: 22px; font-weight: 500; color: var(--color-text-primary); }
+.stat-label { font-size: 11px; color: var(--color-text-tertiary); margin-top: 2px; }
+
+.contact-row {
+  display: flex; gap: 8px; flex-wrap: wrap; padding: 1.5rem;
+  justify-content: center;
+}
+.contact-btn {
+  display: flex; align-items: center; gap: 6px;
+  padding: 8px 16px;
+  border-radius: var(--border-radius-md);
+  border: 0.5px solid var(--color-border-secondary);
+  font-size: 13px; font-weight: 500;
+  color: var(--color-text-primary);
+  background: var(--color-background-primary);
+  cursor: pointer; text-decoration: none;
+}
+.contact-btn i { font-size: 16px; }
+</style>
+
+<h2 class="sr-only">GitHub profile preview for Mostafa Mosad Al-Tonbary, front-end developer</h2>
+
+<div style="border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); overflow: hidden; background: var(--color-background-primary);">
+
+  <div class="profile-header">
+    <div class="avatar">MM</div>
+    <div class="profile-name">Mostafa Mosad Al-Tonbary</div>
+    <div class="profile-title">Front-End Developer &nbsp;·&nbsp; Egypt</div>
+    <div class="badges" style="margin-top: 12px;">
+      <span class="badge purple"><i class="ti ti-brand-react" aria-hidden="true"></i> React</span>
+      <span class="badge purple">Next.js</span>
+      <span class="badge purple">TypeScript</span>
+      <span class="badge green">Shopify</span>
+      <span class="badge amber">Salla</span>
+      <span class="badge coral">Zid</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Tech stack</div>
+    <div class="skills-grid">
+      <div class="skill-chip"><i class="ti ti-brand-react" aria-hidden="true"></i>React</div>
+      <div class="skill-chip"><i class="ti ti-brand-typescript" aria-hidden="true"></i>TypeScript</div>
+      <div class="skill-chip"><i class="ti ti-brand-javascript" aria-hidden="true"></i>JavaScript</div>
+      <div class="skill-chip"><i class="ti ti-brand-nextjs" aria-hidden="true"></i>Next.js</div>
+      <div class="skill-chip"><i class="ti ti-brand-tailwind" aria-hidden="true"></i>Tailwind</div>
+      <div class="skill-chip"><i class="ti ti-brand-sass" aria-hidden="true"></i>Sass</div>
+      <div class="skill-chip"><i class="ti ti-versions" aria-hidden="true"></i>Redux</div>
+      <div class="skill-chip"><i class="ti ti-brand-git" aria-hidden="true"></i>Git</div>
+      <div class="skill-chip"><i class="ti ti-brand-vite" aria-hidden="true"></i>Vite</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">E-commerce platforms</div>
+    <div class="ecom-grid">
+      <div class="ecom-card">
+        <div class="ecom-card-header">
+          <div class="ecom-dot" style="background: #96BF48;"></div>
+          <span class="ecom-name">Shopify</span>
+        </div>
+        <ul class="ecom-skills">
+          <li><i class="ti ti-template" aria-hidden="true"></i>Theme dev</li>
+          <li><i class="ti ti-code" aria-hidden="true"></i>Liquid</li>
+          <li><i class="ti ti-plug" aria-hidden="true"></i>Storefront API</li>
+          <li><i class="ti ti-layout-grid" aria-hidden="true"></i>Sections & blocks</li>
+        </ul>
+      </div>
+      <div class="ecom-card">
+        <div class="ecom-card-header">
+          <div class="ecom-dot" style="background: #FF6B35;"></div>
+          <span class="ecom-name">Salla</span>
+        </div>
+        <ul class="ecom-skills">
+          <li><i class="ti ti-template" aria-hidden="true"></i>Custom themes</li>
+          <li><i class="ti ti-terminal" aria-hidden="true"></i>Salla CLI</li>
+          <li><i class="ti ti-code" aria-hidden="true"></i>Twig</li>
+          <li><i class="ti ti-webhook" aria-hidden="true"></i>Webhooks & APIs</li>
+        </ul>
+      </div>
+      <div class="ecom-card">
+        <div class="ecom-card-header">
+          <div class="ecom-dot" style="background: #5B2D8E;"></div>
+          <span class="ecom-name">Zid</span>
+        </div>
+        <ul class="ecom-skills">
+          <li><i class="ti ti-template" aria-hidden="true"></i>Theme custom</li>
+          <li><i class="ti ti-plug" aria-hidden="true"></i>REST API</li>
+          <li><i class="ti ti-layout-grid" aria-hidden="true"></i>Custom widgets</li>
+          <li><i class="ti ti-language" aria-hidden="true"></i>Arabic market</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Featured projects</div>
+    <div class="projects-grid">
+      <div class="project-card">
+        <div class="project-title">Modern web app</div>
+        <div class="project-desc">Full-featured application with beautiful UI and clean architecture</div>
+        <div class="project-tags">
+          <span class="tag">React</span><span class="tag">Next.js</span><span class="tag">Tailwind</span>
+        </div>
+        <div class="project-links">
+          <a href="#"><i class="ti ti-external-link" aria-hidden="true"></i> Demo</a>
+          <a href="#"><i class="ti ti-brand-github" aria-hidden="true"></i> Code</a>
+        </div>
+      </div>
+      <div class="project-card">
+        <div class="project-title">Shopify custom theme</div>
+        <div class="project-desc">High-converting storefront with custom sections and mobile-first design</div>
+        <div class="project-tags">
+          <span class="tag">Shopify</span><span class="tag">Liquid</span><span class="tag">JS</span>
+        </div>
+        <div class="project-links">
+          <a href="#"><i class="ti ti-external-link" aria-hidden="true"></i> Demo</a>
+          <a href="#"><i class="ti ti-brand-github" aria-hidden="true"></i> Code</a>
+        </div>
+      </div>
+      <div class="project-card">
+        <div class="project-title">Salla store theme</div>
+        <div class="project-desc">Arabic-first e-commerce experience with full RTL support</div>
+        <div class="project-tags">
+          <span class="tag">Salla</span><span class="tag">Twig</span><span class="tag">Tailwind</span>
+        </div>
+        <div class="project-links">
+          <a href="#"><i class="ti ti-external-link" aria-hidden="true"></i> Demo</a>
+          <a href="#"><i class="ti ti-brand-github" aria-hidden="true"></i> Code</a>
+        </div>
+      </div>
+      <div class="project-card">
+        <div class="project-title">Analytics dashboard</div>
+        <div class="project-desc">Data visualization platform with real-time charts and export</div>
+        <div class="project-tags">
+          <span class="tag">React</span><span class="tag">Chart.js</span><span class="tag">Redux</span>
+        </div>
+        <div class="project-links">
+          <a href="#"><i class="ti ti-external-link" aria-hidden="true"></i> Demo</a>
+          <a href="#"><i class="ti ti-brand-github" aria-hidden="true"></i> Code</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" style="border-bottom: none;">
+    <div class="section-title">GitHub stats</div>
+    <div class="stats-row">
+      <div class="stat-card">
+        <div class="stat-num">42+</div>
+        <div class="stat-label">Repos</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">3</div>
+        <div class="stat-label">Platforms</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">9</div>
+        <div class="stat-label">Technologies</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">100%</div>
+        <div class="stat-label">Passion</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="contact-row" style="border-top: 0.5px solid var(--color-border-tertiary);">
+    <a href="mailto:melfeshawy42@gmail.com" class="contact-btn"><i class="ti ti-mail" aria-hidden="true"></i> Email</a>
+    <a href="#" class="contact-btn"><i class="ti ti-brand-linkedin" aria-hidden="true"></i> LinkedIn</a>
+    <a href="#" class="contact-btn"><i class="ti ti-world" aria-hidden="true"></i> Portfolio</a>
+  </div>
 
 </div>
