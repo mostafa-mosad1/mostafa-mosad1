@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mostafa+Mosad;Front-End+Developer;React+%26+Next.js+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mostafa+Mosad;Front-End+Developer;React+%26+Next.js+Specialist;Shopify+%7C+Salla+%7C+Zid+Expert" alt="Typing SVG" />
 
 <br/>
 
-**Building scalable web experiences with clean code**
+**Building scalable web experiences & powerful e-commerce solutions**
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 💫 About Me
 
@@ -27,32 +27,33 @@ const developer = {
   name: "Mostafa Mosad Al-Tonbary",
   location: "Egypt 🇪🇬",
   role: "Front-End Developer",
-  expertise: ["React", "Next.js", "TypeScript"],
+  expertise: ["React", "Next.js", "TypeScript", "Shopify", "Salla", "Zid"],
   passion: "Turning ideas into elegant solutions",
-  currently: "Building high-performance web apps"
+  currently: "Building high-performance web apps & e-commerce experiences",
+  ecommerce: {
+    platforms: ["Shopify", "Salla 🛒", "Zid 🏪"],
+    specialties: ["Theme Development", "Custom Sections", "Liquid", "Storefront API"]
+  }
 };
 ```
 
-I'm a passionate Front-End Developer who loves creating **beautiful**, **performant**, and **user-friendly** web applications. I believe in writing clean code and delivering exceptional user experiences.
+I'm a passionate Front-End Developer who loves creating **beautiful**, **performant**, and **user-friendly** web applications. I specialize in both modern React/Next.js development and e-commerce platform development across **Shopify**, **Salla**, and **Zid**.
 
 ### 🎯 What I'm Up To
 
 - 🚀 Building scalable applications with React & Next.js
+- 🛒 Developing custom themes & solutions on Shopify, Salla, and Zid
 - 📚 Mastering advanced patterns and performance optimization
 - 🤝 Open to collaborating on exciting projects
 - 🌱 Always learning and improving my craft
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-</div>
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### ⚛️ Languages & Frameworks
 
 <table>
 <tr>
@@ -83,7 +84,7 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 </tr>
 </table>
 
-### Styling & UI
+### 🎨 Styling & UI
 
 <table>
 <tr>
@@ -106,7 +107,7 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 </tr>
 </table>
 
-### Tools & Technologies
+### ⚙️ Tools & Technologies
 
 <table>
 <tr>
@@ -133,26 +134,67 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 </tr>
 </table>
 
-### E-Commerce Platforms
-
-**![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![Salla](https://img.shields.io/badge/Salla-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
-![Zid](https://img.shields.io/badge/Zid-5B2D8E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white)**
-
-<br/>
-
 </div>
 
-<br/>
+---
+
+## 🛒 E-Commerce Expertise
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+
+> I build complete e-commerce solutions — from custom storefronts to theme development and API integrations.
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="200">
+
+### <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+
+🟢 **Shopify**
+- Custom Theme Development
+- Liquid Templating
+- Sections & Blocks
+- Storefront API
+- App Integrations
+
+</td>
+<td align="center" width="200">
+
+### <img src="https://img.shields.io/badge/Salla-FF6B35?style=for-the-badge&logoColor=white" />
+
+🟠 **Salla**
+- Custom Themes
+- Salla CLI
+- Twig Templating
+- App Development
+- Webhooks & APIs
+
+</td>
+<td align="center" width="200">
+
+### <img src="https://img.shields.io/badge/Zid-5B2D8E?style=for-the-badge&logoColor=white" />
+
+🟣 **Zid**
+- Theme Customization
+- Zid Apps
+- REST API Integration
+- Custom Widgets
+- Arabic Market Focus
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&ring=667eea&fire=667eea&currStreakLabel=667eea" />
 
@@ -161,11 +203,7 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-</div>
+---
 
 ## 🌟 Featured Projects
 
@@ -192,17 +230,17 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 </td>
 <td width="50%" valign="top">
 
-### 💼 E-Commerce Platform
-**Scalable shopping experience**
+### 🛍️ Shopify Custom Theme
+**High-converting storefront experience**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Material UI](https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=mui)
+![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-0071BC?style=flat-square&logo=shopify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ✨ **Features:**
-- Real-time updates
-- Payment integration
-- Admin dashboard
+- Custom sections & blocks
+- Performance optimized
+- Mobile-first design
 
 [🔗 View Demo](PROJECT_LINK) • [💻 Source Code](GITHUB_LINK)
 
@@ -212,34 +250,34 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Creative Portfolio
-**Interactive showcase with animations**
+### 🟠 Salla Theme
+**Arabic-first e-commerce experience**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Salla](https://img.shields.io/badge/-Salla-FF6B35?style=flat-square&logoColor=white)
+![Twig](https://img.shields.io/badge/-Twig-bacf29?style=flat-square&logo=symfony&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ✨ **Features:**
-- Smooth animations
-- 3D elements
-- Dark/Light mode
+- RTL support
+- Custom components
+- API integration
 
 [🔗 View Demo](PROJECT_LINK) • [💻 Source Code](GITHUB_LINK)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Analytics Dashboard
-**Data visualization platform**
+### 💼 E-Commerce Dashboard
+**Admin & analytics platform**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ✨ **Features:**
 - Real-time charts
-- Export data
-- Custom reports
+- Order management
+- Multi-store support
 
 [🔗 View Demo](PROJECT_LINK) • [💻 Source Code](GITHUB_LINK)
 
@@ -249,11 +287,7 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-</div>
+---
 
 ## 💬 Let's Connect
 
@@ -261,9 +295,7 @@ I'm a passionate Front-End Developer who loves creating **beautiful**, **perform
 
 I'm always excited to connect with fellow developers and discuss new opportunities!
 
-<br/>
-
-**Feel free to reach out:**
+Whether it's a **React app**, a **Shopify theme**, a **Salla store**, or a **Zid project** — let's build something great together.
 
 <br/>
 
@@ -278,12 +310,6 @@ I'm always excited to connect with fellow developers and discuss new opportuniti
 </a>
 
 <br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-
-<br/>
-
-### ⭐ Thanks for visiting!
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=667eea&style=flat-square&label=Profile+Views)
 
