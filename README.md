@@ -1,9 +1,16 @@
 <div align="center">
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/118058556?s=96&v=4" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostafa+Mosaad;Front-End+Developer;React+%7C+Next.js+%7C+Shopify" alt="Typing SVG" />
+</h2>
 
-<br/><br/>
+<p align="center">
+  ⚡ Frontend Developer with strong expertise in React & Next.js <br/>
+  Experienced in building e-commerce solutions on <b>Salla</b>, <b>Zid</b>, and <b>Shopify</b> <br/>
+  🎓 Information Technology — Mansoura University <br/>
+  🇪🇬 Egypt
+</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafamosad246@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEN-fS9wX19HQAAAZ6wKm0Y8zd2oRcN5GKVkYoslk1PgLs-CP7M2wbb_eGE-k4Szbg1rYshtj0lJGxf0cwp6CxOnw0Sw9MGWOiJ5nILXGw754wHK2yxGV6iG6sqhNt_uOux59E=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmostafa-mosad-al-tonbary-41561429b))
