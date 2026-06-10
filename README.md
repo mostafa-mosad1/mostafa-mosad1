@@ -8,16 +8,17 @@
 
 <br/><br/>
 
-![Egypt](https://img.shields.io/badge/Egypt-📍-lightgrey?style=flat)
-![Mansoura University](https://img.shields.io/badge/Mansoura_University-🎓-blue?style=flat)
-![Very Good](https://img.shields.io/badge/Grade-Very_Good-success?style=flat)
-![Google · ITI](https://img.shields.io/badge/Training-Google_·_ITI-orange?style=flat)
+![Open to work](https://img.shields.io/badge/Open_to_work-✓-1D9E75?style=flat&labelColor=E1F5EE)
+![Mansoura University](https://img.shields.io/badge/Mansoura_University-🎓-534AB7?style=flat&labelColor=EEEDFE)
+![Graduation A+](https://img.shields.io/badge/Graduation-A%2B-27500A?style=flat&labelColor=EAF3DE)
+![Languages](https://img.shields.io/badge/Arabic_·_English-🌍-555?style=flat)
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melfeshawy42@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafamosad246@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -25,10 +26,47 @@
 
 ## 👨‍💻 About me
 
-- 🚀 Front-end developer focused on **React**, **Next.js** & **TypeScript**
-- 🛒 Shopify, Salla & Zid theme developer
-- 🎨 Passionate about clean code & great UI/UX
-- 📚 Currently focused on performance optimization & reusable component systems
+- ⚛️ Specialized in **React** & **Next.js** with TypeScript for scalable web apps
+- 🛒 Shopify developer at **Madar** · Salla & Zid developer at **Azzrk** — actively working on both
+- 🎨 Passionate about clean code, pixel-perfect UI & great UX
+- 📈 Focused on performance optimization & reusable component systems
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td>🟢</td>
+    <td><strong>Front-End Developer — Madar</strong></td>
+    <td>Shopify development & customization · Remote</td>
+    <td><code>Mar 2026 – Present</code></td>
+  </tr>
+  <tr>
+    <td>🟢</td>
+    <td><strong>Front-End Developer — Azzrk</strong></td>
+    <td>Salla & Zid platform development · Mansoura</td>
+    <td><code>Jun 2025 – Present</code></td>
+  </tr>
+  <tr>
+    <td>⚪</td>
+    <td><strong>React Developer — Route Tech</strong></td>
+    <td>Internship</td>
+    <td><code>6 months</code></td>
+  </tr>
+  <tr>
+    <td>⚪</td>
+    <td><strong>Flutter Developer — Google DSC</strong></td>
+    <td>Internship</td>
+    <td><code>2 months</code></td>
+  </tr>
+  <tr>
+    <td>⚪</td>
+    <td><strong>Flutter Developer — ITI</strong></td>
+    <td>Training course</td>
+    <td><code>2 months</code></td>
+  </tr>
+</table>
 
 ---
 
@@ -40,112 +78,98 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🔄 State & data fetching
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ### 🎨 Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-### ⚙️ State & tools
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🛒 E-commerce
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Salla](https://img.shields.io/badge/Salla-FF6B35?style=for-the-badge&logoColor=white)
-![Zid](https://img.shields.io/badge/Zid-7B2FBE?style=for-the-badge&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-bacf29?style=for-the-badge&logoColor=black)
+![Shopify](https://img.shields.io/badge/Shopify_%26_Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Salla](https://img.shields.io/badge/Salla_%26_Twig-FF6B35?style=for-the-badge&logoColor=white)
+![Zid](https://img.shields.io/badge/Zid_%26_Jinja-7B2FBE?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🛍 E-commerce expertise
+## 🛍 E-commerce themes
 
-| | Shopify | Salla | Zid |
-|---|---|---|---|
-| **Language** | Liquid | Twig | Custom widgets |
-| **Themes** | Custom themes | Custom themes | Theme customization |
-| **API** | Storefront API | Webhooks | REST API |
-| **Tools** | Sections & blocks | Salla CLI | Arabic market |
-| **Extra** | App integrations | Custom components | Store enhancements |
+### 🟠 Salla & Twig
+`Graneet` `Galawi` `Eltrac` `Zad` `Jory` `Travel` `Digital` `Rayan` `and more...`
 
----
+### 🟣 Zid & Jinja
+`Sportify` `Runaway` `Glomar`
 
-## 🌟 Featured projects
-
-### 🐾 PetCare — graduation project
-> Full pet management ecosystem built with React & Redux
-
-Complete platform covering pet profiles, vaccine reminders, doctor booking, e-commerce store, user dashboard, and merchant dashboard — all connected via REST API with full authentication.
-
-`React` `Redux` `REST API` `Authentication`
+### 🔵 Shopify & Liquid
+`Hoor`
 
 ---
 
-### 🛍 Custom Shopify theme
-> High-converting storefront experience
+## 🌟 Projects
 
-Custom sections, dynamic blocks, mobile-first design, and Storefront API integration with a focus on performance optimization.
+### 🐾 Pets Life — graduation project · Grade A+
+> Full-stack platform for animal breeders
 
-`Shopify` `Liquid` `JavaScript` `Performance`
+Complete pet care ecosystem — integrated store for food, medicine & supplies, certified veterinarians directory, appointment & vaccination scheduling, and a marketplace for third-party sellers.
 
----
-
-### 🟠 Salla theme development
-> Arabic-first e-commerce experience
-
-Full RTL support, custom components, API integration, and complete store optimization for the Arabic market.
-
-`Salla` `Twig` `Tailwind CSS` `RTL`
+`React.js` `PHP` `Node.js`
 
 ---
 
-### 📊 Analytics dashboard
-> Data visualization and management dashboard
+### ✅ TODO App
+> Task management with secure authentication
 
-Real-time charts and reports, user analytics, and performance tracking built with React and Chart.js.
+Full CRUD task manager with Clerk authentication, MongoDB storage & shadcn/ui components.
 
-`React` `Redux` `Chart.js`
+`Next.js` `MongoDB` `shadcn/ui` `Clerk`
 
 ---
 
-## 📊 GitHub analytics
+### 📖 Qurank
+> Comprehensive Quran platform
+
+Verse recitations, multiple interpretations, Hadiths & live radio streaming — built to make Quran understanding more accessible.
+
+`React.js` `TypeScript` `Tailwind CSS`
+
+---
+
+## 🏆 GitHub trophies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
-
----
-
-## 🏆 Achievements
-
-- 🎓 Faculty of Computers & Information — Mansoura University
-- 📈 Overall grade: Very Good
-- 🏅 Google Training Program
-- 🏅 ITI Training Program
-- 🚀 Shopify theme developer
-- 🚀 Salla theme developer
-- 🚀 React & Next.js specialist
-
----
-
-## 🔥 Currently working on
-
-- Advanced Shopify theme customization
-- Salla components development
-- Next.js performance optimization
-- Reusable UI component systems
-- E-commerce performance enhancement
 
 ---
 
@@ -153,7 +177,21 @@ Real-time charts and reports, user analytics, and performance tracking built wit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Mostafa's%20Contribution%20Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
@@ -163,12 +201,37 @@ Real-time charts and reports, user analytics, and performance tracking built wit
 
 ### 🤝 Let's connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melfeshawy42@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafamosad246@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 <br/>
 
 *"Turning ideas into elegant digital experiences."*
 
 </div>
+
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
