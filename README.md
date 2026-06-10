@@ -1,9 +1,9 @@
-<div align="center">
-<br/>
-
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostafa+Mosaad;Front-End+Developer;React+%7C+Next.js+%7C+Shopify" alt="Typing SVG" />
 </h2>
+ <!-- <div align="center">
+<br/>
+
 
 <p align="center">
   ⚡ Frontend Developer with strong expertise in React & Next.js <br/>
@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]([YOUR_PORTFOLIO_URL](https://portfolio-nine-gules-95.vercel.app/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_GITHUB_URL](https://github.com/mostafa-mosad1))
 
-</div>
+</div>  -->
 
 ---
 
