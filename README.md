@@ -1,24 +1,14 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Mostafa+Mosad;Front-End+Developer;React+%26+Next.js+Specialist;Shopify+%7C+Salla+%7C+Zid+Developer" />
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=6366F1&style=flat" />
+<img src="https://avatars.githubusercontent.com/u/118058556?s=96&v=4" />
 
 <br/><br/>
 
-![Egypt](https://img.shields.io/badge/Egypt-📍-lightgrey?style=flat)
-![Mansoura University](https://img.shields.io/badge/Mansoura_University-🎓-blue?style=flat)
-![Grade A+](https://img.shields.io/badge/Graduation_Project-A%2B-success?style=flat)
-![Open to work](https://img.shields.io/badge/Status-Open_to_work-brightgreen?style=flat)
-
-<br/>
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafamosad246@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEN-fS9wX19HQAAAZ6wKm0Y8zd2oRcN5GKVkYoslk1PgLs-CP7M2wbb_eGE-k4Szbg1rYshtj0lJGxf0cwp6CxOnw0Sw9MGWOiJ5nILXGw754wHK2yxGV6iG6sqhNt_uOux59E=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmostafa-mosad-al-tonbary-41561429b))
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]([YOUR_PORTFOLIO_URL](https://portfolio-nine-gules-95.vercel.app/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_GITHUB_URL](https://github.com/mostafa-mosad1))
 
 </div>
 
@@ -27,9 +17,9 @@
 ## 👨‍💻 About me
 
 - 🚀 Front-end developer specialized in **React** & **Next.js**
-- 🛒 Working at **Azzrk** on Salla & Zid platforms, and at **Madar** on Shopify development
+- 🛒 Working at **Azzrk** — Salla & Zid · Working at **Madar** — Shopify (Remote)
 - 🎓 Faculty of Computer & Information Sciences — Mansoura University (2019–2023)
-- 🐾 Graduation project **Pets Life** — Grade **A+**
+- 🐾 Graduation project **Pets Life** · Grade **A+**
 - 🌍 Arabic native · English good
 - 📚 Focused on scalable UI systems & e-commerce performance
 
@@ -37,13 +27,38 @@
 
 ## 💼 Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Front-End Developer | **Madar** (Remote) | Mar 2026 – Present |
-| Front-End Developer | **Azzrk** (Mansoura) | Jun 2025 – Present |
-| React Developer | **Route Tech** (Internship) | 6 months |
-| Flutter Developer | **Google DSC** (Internship) | 2 months |
-| Flutter Developer | **ITI** (Training) | 2 months |
+<table>
+  <tr>
+    <td>🟢</td>
+    <td><strong>Front-End Developer — Madar</strong> (Remote)</td>
+    <td>Shopify development & customization</td>
+    <td><code>Mar 2026 – Present</code></td>
+  </tr>
+  <tr>
+    <td>🟢</td>
+    <td><strong>Front-End Developer — Azzrk</strong> (Mansoura)</td>
+    <td>Salla & Zid platform development</td>
+    <td><code>Jun 2025 – Present</code></td>
+  </tr>
+  <tr>
+    <td>⚪</td>
+    <td><strong>React Developer — Route Tech</strong></td>
+    <td>Internship</td>
+    <td><code>6 months</code></td>
+  </tr>
+  <tr>
+    <td>⚪</td>
+    <td><strong>Flutter Developer — Google DSC</strong></td>
+    <td>Internship</td>
+    <td><code>2 months</code></td>
+  </tr>
+  <tr>
+    <td>⚪</td>
+    <td><strong>Flutter Developer — ITI</strong></td>
+    <td>Training course</td>
+    <td><code>2 months</code></td>
+  </tr>
+</table>
 
 ---
 
@@ -108,7 +123,7 @@ Complete pet care ecosystem — integrated store for food, medicine & supplies, 
 ### ✅ TODO App
 > Task management with secure authentication
 
-Full CRUD task manager — add, edit, delete, and mark tasks as complete. Features secure authentication via Clerk for user session management and access control.
+Full CRUD task manager — add, edit, delete, and mark tasks as complete. Secure authentication via Clerk for user session management and access control.
 
 `Next.js` `MongoDB` `shadcn/ui` `Clerk`
 
@@ -140,23 +155,13 @@ Verse recitations, multiple interpretations, related Hadiths, and live radio str
 
 ---
 
-## 📈 Contribution graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafamosad246@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEN-fS9wX19HQAAAZ6wKm0Y8zd2oRcN5GKVkYoslk1PgLs-CP7M2wbb_eGE-k4Szbg1rYshtj0lJGxf0cwp6CxOnw0Sw9MGWOiJ5nILXGw754wHK2yxGV6iG6sqhNt_uOux59E=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmostafa-mosad-al-tonbary-41561429b))
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-nine-gules-95.vercel.app/)
 
 <br/>
 
